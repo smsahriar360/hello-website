@@ -1,0 +1,46 @@
+@media screen and (max-width:767px) {
+	.display-4 {
+		font-size: 2.5rem;
+	}
+	.service {
+		text-align: center;
+	}
+	.service img {
+		margin-top: 15px;
+	}
+	.gallery img {
+		margin-bottom: 15px;
+	}
+	.what-we-do .do-img {
+		margin-top: 10px;
+	}
+	.pricing .card {
+		width: 75%;
+		margin: 20px auto;
+	}
+	.blog-content .card {
+		width: 75%;
+		margin: 20px auto;
+	}
+	.contact-content .contact-left {
+		margin-bottom: 30px;
+	}
+}
+
+@media screen and (max-width:644px) {
+	.newsletter button {
+		margin-top: 15px;
+	}
+}
+
+@media screen and (max-width:575px) {
+	.newsletter input {
+		margin-bottom: 10px;
+	}
+}
+
+@media screen and (max-width:522px) {
+	.newsletter h2 {
+		font-size: 1.5rem;
+	}
+}

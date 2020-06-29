@@ -1,0 +1,64 @@
+/*Reset css*/
+
+body {
+	font-family: 'Quicksand', sans-serif;
+}
+
+
+/*Scrollbar*/
+
+.scrollup {
+	position: fixed;
+	bottom: 50px;
+	right: 84px;
+}
+
+.scrollup i {
+	font-size: 40px;
+	color: #007bff;
+}
+
+
+/*carousel-caption*/
+
+.carousel-caption {
+	bottom: 30%
+}
+
+
+/*fontwosome icon style*/
+
+.about-content i {
+	font-size: 2rem;
+}
+
+
+/*getting css*/
+
+.getting {
+	background: url(../images/1.jpg);
+	height: 200px;
+	background-size: cover;
+	position: relative;
+}
+
+.getting-overlay {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	background: rgba(0, 0, 0, .5);
+}
+
+
+/*about css*/
+
+.section-banner {
+	background: url(../images/about.jpg);
+	height: 250px;
+	background-size: cover;
+	background-position: center;
+}
+
+.what-we-do img {
+	margin-top: -80px;
+}
